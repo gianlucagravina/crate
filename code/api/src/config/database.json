@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "gianluca@crate-db",
-    "password": "!gravaHer123456",
+    "password": "",
     "database": "crate",
     "host": "crate-db.mysql.database.azure.com",
     "dialect": "mysql",
