@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "gianluca@crate-db",
+    "password": "!gravaHer123456",
     "database": "crate",
-    "host": "127.0.0.1",
+    "host": "crate-db.mysql.database.azure.com",
     "dialect": "mysql",
     "seederStorage": "sequelize"
   },

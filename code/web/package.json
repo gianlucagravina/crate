@@ -34,6 +34,8 @@
   },
   "dependencies": {
     "@babel/runtime": "7.8.3",
+    "@microsoft/applicationinsights-react-js": "^2.4.4",
+    "@microsoft/applicationinsights-web": "^2.4.4",
     "axios": "0.19.2",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
